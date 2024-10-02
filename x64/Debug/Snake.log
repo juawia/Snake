@@ -1,0 +1,13 @@
+﻿  Snake02857826.cpp
+C:\Users\juawi\source\repos\Snake\Snake\Snake02857826.cpp(31,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\juawi\source\repos\Snake\Snake\Snake02857826.cpp(78,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  SnakeGame02857826.cpp
+C:\Users\juawi\source\repos\Snake\Snake\SnakeGame02857826.cpp(184,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\juawi\source\repos\Snake\Snake\SnakeGame02857826.cpp(186,20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\juawi\source\repos\Snake\Snake\SnakeGame02857826.cpp(190,21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\juawi\source\repos\Snake\Snake\SnakeGame02857826.cpp(192,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SnakeTest.cpp
+  Generating Code...
+C:\Users\juawi\source\repos\Snake\Snake\SnakeGame02857826.cpp(159,1): warning C4715: 'CSC2034::SnakeGame02857826::foodDetected': not all control paths return a value
+C:\Users\juawi\source\repos\Snake\Snake\SnakeGame02857826.cpp(135,1): warning C4715: 'CSC2034::SnakeGame02857826::isGameOver': not all control paths return a value
+  Snake.vcxproj -> C:\Users\juawi\source\repos\Snake\x64\Debug\Snake.exe
