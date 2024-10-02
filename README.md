@@ -1,1 +1,1 @@
-To run, compile SnakeTest.cpp.
+To run, compile and run SnakeTest.cpp.
